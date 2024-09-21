@@ -3,9 +3,11 @@
 @tailwind utilities;
 
 * {
-    font-family: "Sarabun";
+    font-family: "Sarabun", sans-serif;
 }
 
 body {
     margin: auto;
+    text-align: center;
 }
+
